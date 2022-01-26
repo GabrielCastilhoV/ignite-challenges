@@ -11,9 +11,5 @@ The challenges from the React track from the Ignite Bootcamp provided by @Rocket
 ## 🖥 Setup
 - Clone the repository
 - Enter the challenge folder you want
-- Run `npm install` to install dependecies
-- Run `npm run dev` to run the project
-
-## 🚧 Built With
-- ReactJS
-- TypeScript
+- Run `yarn` to install dependecies
+- Run `yarn dev` to run the project
